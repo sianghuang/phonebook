@@ -1,6 +1,4 @@
 # Summary
-* test git push
-* test again
 * Understand the impact of cache miss
 * Get familiar with the performance analysis tool
 * Realize the software optimizations
